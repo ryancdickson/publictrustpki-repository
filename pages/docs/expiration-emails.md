@@ -4,4 +4,4 @@ layout: docs
 permalink: docs/expiration-emails/
 ---
 
-**Last updated**: February 7, 2019 \| [Back to Documentation](/docs/)
+**Last updated**: February 7, 2019 \| [Back to Documentation]({{site.baseurl}}/docs/)

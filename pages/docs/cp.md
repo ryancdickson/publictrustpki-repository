@@ -5,7 +5,7 @@ permalink: docs/cp/
 sidenav: cp
 ---
 
-**Last updated**: February 7, 2019 \| [Back to Documentation](/docs/)
+**Last updated**: February 7, 2019 \| [Back to Documentation]({{site.baseurl}}/docs/)
 
 <a class="usa-button usa-button-primary" href="/assets/cp.pdf" target="blank">Download PDF</a>
 
