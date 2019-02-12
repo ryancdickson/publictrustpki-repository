@@ -5,7 +5,7 @@ permalink: /
 top: false
 
 hero:
-  heading: A public repository for the U.S. Federal Public Trust TLS PKI
+  heading: A repository for the U.S. Federal Public Trust TLS PKI
   content: This site contains information on the U.S. Federal Public Trust Transport Layer Security (TLS) Public Key Infrastructure (PKI), an infrastructure which supports automated issuance of digital certificates for Federal .mil and .gov web services.
 
   button:
