@@ -5,7 +5,7 @@ permalink: docs/glossary/
 sidenav: glossary
 ---
 
-**Last updated**: February 7, 2019 \| [Back to Documentation](/docs/)
+**Last updated**: February 7, 2019 \| [Back to Documentation]({{site.baseurl}}/docs/)
 
 ## Definitions
 {% include definitions.md %}  
