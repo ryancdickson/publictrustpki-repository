@@ -72,6 +72,6 @@ hero:
 </table>
 
 ## Audit Reports
-[![webtrust-ca]({{site.baseurl}}/assets/img/webtrust-ca-ey.png)](https://www.cpacanada.ca/webtrustseal?sealid=){:target="_blank"}
-[![webtrust-baseline]({{site.baseurl}}/assets/img/webtrust-baseline-ey.png)](https://www.cpacanada.ca/webtrustseal?sealid=){:target="_blank"}<br>
+[![webtrust-ca]({{site.baseurl}}/assets/img/webtrust-ca.png)](https://www.cpacanada.ca/webtrustseal?sealid=){:target="_blank"}
+[![webtrust-baseline]({{site.baseurl}}/assets/img/webtrust-baseline.png)](https://www.cpacanada.ca/webtrustseal?sealid=){:target="_blank"}<br>
 
