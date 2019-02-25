@@ -1,6 +1,6 @@
 ---
 title: Revoking Certificates
-layout: guides
+layout: docs
 permalink: guides/revoking-certificates/
 ---
 
