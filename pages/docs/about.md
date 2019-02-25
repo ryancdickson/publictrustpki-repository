@@ -1,5 +1,5 @@
 ---
-title: About the U.S. Federal Public Trust TLS PKI
+title: U.S. Federal Public Trust TLS PKI
 layout: docs
 permalink: docs/about/
 ---
