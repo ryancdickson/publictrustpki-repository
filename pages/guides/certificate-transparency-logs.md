@@ -1,6 +1,6 @@
 ---
 title: Certificate Transparency
-layout: guides
+layout: docs
 permalink: guides/certificate-transparency-logs/
 ---
 
