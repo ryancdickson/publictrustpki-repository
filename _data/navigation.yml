@@ -1,8 +1,11 @@
 primary:
   - text: Documentation
     href: /docs/
+  - text: Guides
+    href: /guides/
   - text: FAQ
     href: /faq/
+
 
 glossary:
   - text: Definitions
