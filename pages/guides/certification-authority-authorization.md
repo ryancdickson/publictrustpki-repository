@@ -1,6 +1,6 @@
 ---
 title: Certification Authority Authorization
-layout: guides
+layout: docs
 permalink: guides/certification-authority-authorization/
 ---
 
