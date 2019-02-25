@@ -5,6 +5,7 @@ permalink: /guides/
 ---
 
 ### Getting Started
+- [Preparation Checklist]({{site.baseurl}}/guides/preparation-checklist)
 - [Selecting an ACME Client]({{site.baseurl}}/guides/acme-implementations)
 
 ### Certificate Management Guides
