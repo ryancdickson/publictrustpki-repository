@@ -1,6 +1,6 @@
 ---
 title: Rate Limits
-layout: guides
+layout: docs
 permalink: guides/rate-limits/
 ---
 
