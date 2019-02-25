@@ -1,6 +1,6 @@
 ---
 title: Reissuing Certificates
-layout: guides
+layout: docs
 permalink: guides/reissuing-certificates/
 ---
 
