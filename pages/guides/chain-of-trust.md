@@ -1,6 +1,6 @@
 ---
 title: Chain of Trust
-layout: guides
+layout: docs
 permalink: guides/chain-of-trust/
 ---
 
