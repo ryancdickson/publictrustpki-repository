@@ -18,8 +18,17 @@ permalink: /docs/
 - [WebTrust Principles and Criteria for Certification Authorities](https://www.cpacanada.ca/webtrustseal?sealid=){:target="_blank"}
 - [WebTrust Principles and Criteria for Certification Authorities - SSL Baseline with Network Security](https://www.cpacanada.ca/webtrustseal?sealid=){:target="_blank"}
 
-### Subscriber Agreements
+### Subscriber Information
 - [Subscriber Agreement]({{site.baseurl}}/docs/subscriber-agreement)
 - [Terms of Service]({{site.baseurl}}/docs/terms-of-service)
+
+### Advanced Subscriber Information
+- [Certificate Compatibility]({{site.baseurl}}/docs/certificate-compatibility)
+- [Certificate Transparency Logging]({{site.baseurl}}/docs/certificate-transparency-logs)
+- [Chain of Trust (Root and Subordinate CA Certificates)]({{site.baseurl}}/docs/chain-of-trust)
+- [Certification Authority Authorization]({{site.baseurl}}/docs/certification-authority-authorization)
+- [Rate Limits]({{site.baseurl}}/docs/rate-limits)
+- [Expiration Emails]({{site.baseurl}}/docs/expiration-emails)
+
 
 
