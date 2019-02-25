@@ -1,6 +1,6 @@
 ---
 title: Best Practices
-layout: guides
+layout: docs
 permalink: guides/best-practices/
 ---
 
