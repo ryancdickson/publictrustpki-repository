@@ -1,6 +1,6 @@
 ---
 title: Issuing Certificates
-layout: guides
+layout: docs
 permalink: guides/issuing-certificates/
 ---
 
