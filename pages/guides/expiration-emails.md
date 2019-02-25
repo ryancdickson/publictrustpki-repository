@@ -1,6 +1,6 @@
 ---
 title: Expiration Emails
-layout: guides
+layout: docs
 permalink: guides/expiration-emails/
 ---
 
