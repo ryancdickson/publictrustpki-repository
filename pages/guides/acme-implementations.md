@@ -1,7 +1,7 @@
 ---
-title: ACME Client Implementations
+title: Preparation Checklist
 layout: docs
-permalink: guides/acme-implementations/
+permalink: guides/preparation-checklist/
 ---
 
 **Last updated**: February 7, 2019 \| [Back to Guides]({{site.baseurl}}/guides/)
