@@ -1,6 +1,6 @@
 ---
 title: Guides
-layout: guides
+layout: docs
 permalink: /guides/
 ---
 
