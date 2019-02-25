@@ -1,6 +1,6 @@
 ---
 title: ACME Client Implementations
-layout: guides
+layout: docs
 permalink: guides/acme-implementations/
 ---
 
