@@ -5,8 +5,7 @@ permalink: /docs/
 ---
 
 ### Overview
-- [Getting Started]({{site.baseurl}}/docs/getting-started/)
-- [How the U.S. Federal Public Trust TLS PKI Works]({{site.baseurl}}/docs/how-it-works)
+- [About the U.S. Federal Public Trust TLS PKI]({{site.baseurl}}/docs/about/)
 - [Frequently Asked Questions (FAQ)]({{site.baseurl}}/faq/)
 - [Glossary]({{site.baseurl}}/docs/glossary)
 
