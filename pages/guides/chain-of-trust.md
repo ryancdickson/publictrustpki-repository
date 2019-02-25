@@ -4,5 +4,5 @@ layout: guides
 permalink: guides/chain-of-trust/
 ---
 
-**Last updated**: February 7, 2019 \| [Back to Documentation]({{site.baseurl}}/docs/)
+**Last updated**: February 7, 2019 \| [Back to Guides]({{site.baseurl}}/guides/)
 TBD TBD TBD
