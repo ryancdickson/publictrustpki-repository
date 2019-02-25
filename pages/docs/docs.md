@@ -19,7 +19,8 @@ permalink: /docs/
 - [WebTrust Principles and Criteria for Certification Authorities](https://www.cpacanada.ca/webtrustseal?sealid=){:target="_blank"}
 - [WebTrust Principles and Criteria for Certification Authorities - SSL Baseline with Network Security](https://www.cpacanada.ca/webtrustseal?sealid=){:target="_blank"}
 
-### Subscriber Agreement
+### Subscriber Agreements
 - [Subscriber Agreement]({{site.baseurl}}/docs/subscriber-agreement)
+- [Terms of Service]({{site.baseurl}}/docs/terms-of-service)
 
 
