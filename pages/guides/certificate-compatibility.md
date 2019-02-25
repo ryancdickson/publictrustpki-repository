@@ -1,6 +1,6 @@
 ---
 title: Certificate Compatibility
-layout: guides
+layout: docs
 permalink: guides/certificate-compatibility/
 ---
 
